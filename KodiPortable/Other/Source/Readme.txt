@@ -18,7 +18,7 @@ Some configuration in the PortableApps.com Launcher can be overridden by the
 user in an INI file next to KodiPortable.exe called KodiPortable.ini.
 If you are happy with the default options, it is not necessary, though.  There
 is an example INI included with this package to get you started.  To use it,
-copy AppNamePortable.ini from this directory to GitHubDesktopPortable.ini next to
+copy KodiPortable.ini from this directory to KodiPortable.ini next to
 KodiPortable.exe. The options in the INI file are as follows:
 
    AdditionalParameters=
